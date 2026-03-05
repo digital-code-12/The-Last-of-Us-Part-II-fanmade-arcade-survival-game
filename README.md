@@ -10,9 +10,11 @@ This project is **not affiliated with, endorsed by, or associated with** [Naught
 
 ### Compatibility:
 
+**Approximate Required Storage: 23-25 MB**
+
 The newer versions of the game (versions above v1.3.0) are only compatible on windows, however the only version that supports MacOS and Linux is v1.3.0 as that version of the game is a .py file rather than a .exe file.
 
-### Game requirements for v1.3.0:
+### Installation Guide for v1.3.0:
 
 Once downloaded, extract the ZIP archive and follow these additional steps:
 
@@ -24,7 +26,7 @@ In addition, after the installation is complete, open the command prompt (cmd) a
 pip install pygame
 ```
 
-### Game requirements for v1.4.0 and later:
+### Installation Guide for v1.4.0 and later:
 
 The game is an exe file, so just extract the ZIP archive and you're all set!
 
@@ -33,3 +35,7 @@ The game is an exe file, so just extract the ZIP archive and you're all set!
 **Windows users:** Download the latest version (v1.4.0+) for the best experience.
 
 **Mac/Linux users:** Use v1.3.0.
+
+## Older Versions
+
+To download an older version of the game, navigate to the [releases page](https://github.com/digital-code-12/The-Last-of-Us-Part-II-fanmade-arcade-survival-game/releases) and scroll down until you find the version you need.
