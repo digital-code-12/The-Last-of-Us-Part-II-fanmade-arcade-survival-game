@@ -1,5 +1,6 @@
-
 # Additional requirements to run the game
+
+## The only version that supports MacOS and Linux is v1.3.0 as the game is a .py file rather than a .exe file.
 
 Below is a list of the requirements to run the game.
 
