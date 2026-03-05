@@ -28,7 +28,7 @@ pip install pygame
 
 The game is an exe file, so just extract the ZIP archive and you're all set!
 
-### Recommended Versions
+## Recommended Versions
 
 **Windows users:** Download the latest version (v1.4.0+) for the best experience.
 
