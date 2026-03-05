@@ -1,8 +1,18 @@
-# Additional requirements to run the game
+# DISCLAIMER:
+
+This is a fan-made project created for entertainment purposes. All visual assets, characters, and imagery are property of **Naughty Dog** and
+
+**Sony Interactive Entertainment** from *The Last of Us* franchise. 
+
+This project is **not affiliated with, endorsed by, or associated with Naughty Dog or Sony**. No copyright infringement is intended.
+
+# Requirements to run the game 
 
 ## Compatibility:
 
-The game is compatible only on windows, however the only version that supports MacOS and Linux is v1.3.0 as the that version of the game is a .py file rather than a .exe file.
+The newer versions of the game (versions above v1.3.0) are only compatible on windows, however the only version that supports MacOS and
+
+Linux is v1.3.0 as that version of the game is a .py file rather than a .exe file.
 
 ## Game requirements for v1.3.0:
 
@@ -18,4 +28,4 @@ pip install pygame
 
 ## Game requirements for v1.4.0 and later:
 
-The game is now an exe file, so just extract the ZIP archive and you're all set!
+The game is an exe file, so just extract the ZIP archive and you're all set!
